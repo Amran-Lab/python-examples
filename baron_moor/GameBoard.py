@@ -2,12 +2,11 @@
 
 class GameBoard:
     
-    rows = 20
+    rows = 19
 
-    columns = 20
+    columns = 19
 
-    def __init__(self,rows,columns):
-        self.rows
+
 
     def getRows(self):
         return self.rows
